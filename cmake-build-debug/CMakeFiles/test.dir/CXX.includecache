@@ -1038,7 +1038,7 @@ C:/Program Files/opencv/build2/install/include/opencv2/videoio.hpp
 opencv2/core.hpp
 C:/Program Files/opencv/build2/install/include/opencv2/opencv2/core.hpp
 
-C:/Users/Adam/Documents/programming/c++/test/main.cpp
+C:/Users/Adam/Documents/programming/c++/mandelbrot/main.cpp
 iostream
 -
 complex
@@ -1048,5 +1048,9 @@ iostream
 fstream
 -
 opencv2/opencv.hpp
+-
+ctime
+-
+cmath
 -
 
